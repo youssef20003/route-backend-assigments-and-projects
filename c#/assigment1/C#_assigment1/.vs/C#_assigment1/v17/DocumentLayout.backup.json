@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youss\\source\\repos\\C#_assigment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFCD3AE-FD97-4AB8-9EEF-2D03F7E7034D}|C#_assigment1\\C#_assigment1.csproj|c:\\users\\youss\\source\\repos\\c#_assigment1\\c#_assigment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFCD3AE-FD97-4AB8-9EEF-2D03F7E7034D}|C#_assigment1\\C#_assigment1.csproj|solutionrelative:c#_assigment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFCD3AE-FD97-4AB8-9EEF-2D03F7E7034D}|C#_assigment1\\C#_assigment1.csproj|c:\\users\\youss\\source\\repos\\c#_assigment1\\c#_assigment1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFCD3AE-FD97-4AB8-9EEF-2D03F7E7034D}|C#_assigment1\\C#_assigment1.csproj|solutionrelative:c#_assigment1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "point.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\source\\repos\\C#_assigment1\\C#_assigment1\\point.cs",
+              "RelativeDocumentMoniker": "C#_assigment1\\point.cs",
+              "ToolTip": "C:\\Users\\youss\\source\\repos\\C#_assigment1\\C#_assigment1\\point.cs",
+              "RelativeToolTip": "C#_assigment1\\point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:59:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\source\\repos\\C#_assigment1\\C#_assigment1\\Program.cs",
+              "RelativeDocumentMoniker": "C#_assigment1\\Program.cs",
+              "ToolTip": "C:\\Users\\youss\\source\\repos\\C#_assigment1\\C#_assigment1\\Program.cs*",
+              "RelativeToolTip": "C#_assigment1\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:47:27.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\bin\Debug\net9.0\C#_assigment1.exe
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\bin\Debug\net9.0\C#_assigment1.deps.json
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\bin\Debug\net9.0\C#_assigment1.runtimeconfig.json
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\bin\Debug\net9.0\C#_assigment1.dll
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\bin\Debug\net9.0\C#_assigment1.pdb
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.AssemblyInfoInputs.cache
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.AssemblyInfo.cs
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.csproj.CoreCompileInputs.cache
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.dll
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\refint\C#_assigment1.dll
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.pdb
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\C#_assigment1.genruntimeconfig.cache
+C:\Users\youss\source\repos\C#_assigment1\C#_assigment1\obj\Debug\net9.0\ref\C#_assigment1.dll
