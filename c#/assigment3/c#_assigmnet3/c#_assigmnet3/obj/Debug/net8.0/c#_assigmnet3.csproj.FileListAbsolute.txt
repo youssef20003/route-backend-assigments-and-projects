@@ -1,0 +1,15 @@
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\bin\Debug\net8.0\c#_assigmnet3.exe
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\bin\Debug\net8.0\c#_assigmnet3.deps.json
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\bin\Debug\net8.0\c#_assigmnet3.runtimeconfig.json
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\bin\Debug\net8.0\c#_assigmnet3.dll
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\bin\Debug\net8.0\c#_assigmnet3.pdb
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.AssemblyInfoInputs.cache
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.AssemblyInfo.cs
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.csproj.CoreCompileInputs.cache
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.sourcelink.json
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.dll
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\refint\c#_assigmnet3.dll
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.pdb
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\c#_assigmnet3.genruntimeconfig.cache
+D:\backend\c#\assigment3\c#_assigmnet3\c#_assigmnet3\obj\Debug\net8.0\ref\c#_assigmnet3.dll
