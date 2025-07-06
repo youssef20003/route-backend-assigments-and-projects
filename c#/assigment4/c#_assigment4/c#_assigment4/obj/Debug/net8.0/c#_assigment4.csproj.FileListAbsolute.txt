@@ -1,0 +1,15 @@
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\bin\Debug\net8.0\c#_assigment4.exe
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\bin\Debug\net8.0\c#_assigment4.deps.json
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\bin\Debug\net8.0\c#_assigment4.runtimeconfig.json
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\bin\Debug\net8.0\c#_assigment4.dll
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\bin\Debug\net8.0\c#_assigment4.pdb
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.AssemblyInfoInputs.cache
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.AssemblyInfo.cs
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.csproj.CoreCompileInputs.cache
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.sourcelink.json
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.dll
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\refint\c#_assigment4.dll
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.pdb
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\c#_assigment4.genruntimeconfig.cache
+D:\backend\c#\assigment4\c#_assigment4\c#_assigment4\obj\Debug\net8.0\ref\c#_assigment4.dll
