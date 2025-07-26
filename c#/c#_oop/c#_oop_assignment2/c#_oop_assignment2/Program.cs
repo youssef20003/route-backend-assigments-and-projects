@@ -21,7 +21,37 @@ namespace c__oop_assignment2
             #endregion
 
             #region ex-4
-            
+            bool swapped;
+            employees temp;
+
+            for (int i = 0; i < EmpArr.Length - 1; i++)
+            {
+                swapped = false;
+                for (int j = 0; j < EmpArr.Length - i - 1; j++)
+                {
+                   
+                    if (
+                        EmpArr[j].Hd.Year > EmpArr[j + 1].Hd.Year ||
+                        (EmpArr[j].Hd.Year == EmpArr[j + 1].Hd.Year && EmpArr[j].Hd.Month > EmpArr[j + 1].Hd.Month) ||
+                        (EmpArr[j].Hd.Year == EmpArr[j + 1].Hd.Year && EmpArr[j].Hd.Month == EmpArr[j + 1].Hd.Month && EmpArr[j].Hd.Day > EmpArr[j + 1].Hd.Day)
+                       )
+                    {
+                     
+                        temp = EmpArr[j];
+                        EmpArr[j] = EmpArr[j + 1];
+                        EmpArr[j + 1] = temp;
+                        swapped = true;
+                    }
+                }
+
+                if (!swapped)
+                    break;
+            }
+            for (int i = 0; i < EmpArr.Length; i++)
+            {
+                Console.WriteLine(EmpArr[i].ToString());
+            }
+
             #endregion
 
         }
