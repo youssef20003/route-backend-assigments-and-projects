@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048C562C-AC2D-4FEF-9135-B7C8EF3C8B1B}|c#_oop_assignment3\\c#_oop_assignment3.csproj|d:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C562C-AC2D-4FEF-9135-B7C8EF3C8B1B}|c#_oop_assignment3\\c#_oop_assignment3.csproj|solutionrelative:c#_oop_assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C562C-AC2D-4FEF-9135-B7C8EF3C8B1B}|c#_oop_assignment3\\c#_oop_assignment3.csproj|d:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C562C-AC2D-4FEF-9135-B7C8EF3C8B1B}|c#_oop_assignment3\\c#_oop_assignment3.csproj|solutionrelative:c#_oop_assignment3\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "duration.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\classes\\duration.cs",
+              "RelativeDocumentMoniker": "c#_oop_assignment3\\classes\\duration.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\classes\\duration.cs",
+              "RelativeToolTip": "c#_oop_assignment3\\classes\\duration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:18:12.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "c#_oop_assignment3\\Program.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_oop\\c#_oop_assignment3\\c#_oop_assignment3\\Program.cs",
+              "RelativeToolTip": "c#_oop_assignment3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:51:47.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\bin\Debug\net8.0\c#_oop_assignment3.exe
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\bin\Debug\net8.0\c#_oop_assignment3.deps.json
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\bin\Debug\net8.0\c#_oop_assignment3.runtimeconfig.json
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\bin\Debug\net8.0\c#_oop_assignment3.dll
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\bin\Debug\net8.0\c#_oop_assignment3.pdb
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.AssemblyInfoInputs.cache
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.AssemblyInfo.cs
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.csproj.CoreCompileInputs.cache
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.sourcelink.json
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.dll
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\refint\c#_oop_assignment3.dll
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.pdb
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\c#_oop_assignment3.genruntimeconfig.cache
+D:\backend\c#\c#_oop\c#_oop_assignment3\c#_oop_assignment3\obj\Debug\net8.0\ref\c#_oop_assignment3.dll
