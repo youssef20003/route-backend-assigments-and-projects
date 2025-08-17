@@ -1,0 +1,15 @@
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\bin\Debug\net8.0\c#_advanced_assignment1.exe
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\bin\Debug\net8.0\c#_advanced_assignment1.deps.json
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\bin\Debug\net8.0\c#_advanced_assignment1.runtimeconfig.json
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\bin\Debug\net8.0\c#_advanced_assignment1.dll
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\bin\Debug\net8.0\c#_advanced_assignment1.pdb
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.AssemblyInfoInputs.cache
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.AssemblyInfo.cs
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.csproj.CoreCompileInputs.cache
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.sourcelink.json
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.dll
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\refint\c#_advanced_assignment1.dll
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.pdb
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\c#_advanced_assignment1.genruntimeconfig.cache
+D:\backend\c#\c#_advanced\c#_advanced_assignment1\c#_advanced_assignment1\obj\Debug\net8.0\ref\c#_advanced_assignment1.dll

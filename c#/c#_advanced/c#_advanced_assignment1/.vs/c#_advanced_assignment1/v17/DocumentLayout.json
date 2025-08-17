@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|d:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|solutionrelative:c#_advanced_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|d:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\classes\\others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|solutionrelative:c#_advanced_assignment1\\classes\\others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|d:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\classes\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|solutionrelative:c#_advanced_assignment1\\classes\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|d:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\classes\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07E8296-7F7B-4B84-B748-1D7114DD83D5}|c#_advanced_assignment1\\c#_advanced_assignment1.csproj|solutionrelative:c#_advanced_assignment1\\classes\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "others.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\others.cs",
+              "RelativeDocumentMoniker": "c#_advanced_assignment1\\Classes\\others.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\others.cs",
+              "RelativeToolTip": "c#_advanced_assignment1\\Classes\\others.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:03:09.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FixedSizeList.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\FixedSizeList.cs",
+              "RelativeDocumentMoniker": "c#_advanced_assignment1\\Classes\\FixedSizeList.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\FixedSizeList.cs",
+              "RelativeToolTip": "c#_advanced_assignment1\\Classes\\FixedSizeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T02:45:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Range.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\Range.cs",
+              "RelativeDocumentMoniker": "c#_advanced_assignment1\\Classes\\Range.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Classes\\Range.cs",
+              "RelativeToolTip": "c#_advanced_assignment1\\Classes\\Range.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T02:30:37.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "c#_advanced_assignment1\\Program.cs",
+              "ToolTip": "D:\\backend\\c#\\c#_advanced\\c#_advanced_assignment1\\c#_advanced_assignment1\\Program.cs",
+              "RelativeToolTip": "c#_advanced_assignment1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:28:56.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
