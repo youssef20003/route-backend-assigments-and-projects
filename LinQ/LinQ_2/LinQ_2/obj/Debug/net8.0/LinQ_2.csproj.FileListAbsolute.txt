@@ -1,0 +1,15 @@
+D:\backend\LinQ\LinQ_2\LinQ_2\bin\Debug\net8.0\LinQ_2.exe
+D:\backend\LinQ\LinQ_2\LinQ_2\bin\Debug\net8.0\LinQ_2.deps.json
+D:\backend\LinQ\LinQ_2\LinQ_2\bin\Debug\net8.0\LinQ_2.runtimeconfig.json
+D:\backend\LinQ\LinQ_2\LinQ_2\bin\Debug\net8.0\LinQ_2.dll
+D:\backend\LinQ\LinQ_2\LinQ_2\bin\Debug\net8.0\LinQ_2.pdb
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.AssemblyInfoInputs.cache
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.AssemblyInfo.cs
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.csproj.CoreCompileInputs.cache
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.sourcelink.json
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.dll
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\refint\LinQ_2.dll
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.pdb
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\LinQ_2.genruntimeconfig.cache
+D:\backend\LinQ\LinQ_2\LinQ_2\obj\Debug\net8.0\ref\LinQ_2.dll
