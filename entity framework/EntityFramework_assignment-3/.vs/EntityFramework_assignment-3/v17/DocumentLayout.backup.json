@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|d:\\backend\\entity framework\\entityframework_assignment-3\\entityframework_assignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|solutionrelative:entityframework_assignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|d:\\backend\\entity framework\\entityframework_assignment-3\\entityframework_assignment-3\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|solutionrelative:entityframework_assignment-3\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|d:\\backend\\entity framework\\entityframework_assignment-3\\entityframework_assignment-3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D650997-FA6E-4BBC-90E1-BE3563808B7B}|EntityFramework_assignment-3\\EntityFramework_assignment-3.csproj|solutionrelative:entityframework_assignment-3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityFramework_assignment-3\\Models\\Employee.cs",
+              "ToolTip": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Models\\Employee.cs",
+              "RelativeToolTip": "EntityFramework_assignment-3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:11:43.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Context\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework_assignment-3\\Context\\CompanyContext.cs",
+              "ToolTip": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Context\\CompanyContext.cs",
+              "RelativeToolTip": "EntityFramework_assignment-3\\Context\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:11:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFramework_assignment-3\\Program.cs",
+              "ToolTip": "D:\\backend\\entity framework\\EntityFramework_assignment-3\\EntityFramework_assignment-3\\Program.cs",
+              "RelativeToolTip": "EntityFramework_assignment-3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:56:35.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
