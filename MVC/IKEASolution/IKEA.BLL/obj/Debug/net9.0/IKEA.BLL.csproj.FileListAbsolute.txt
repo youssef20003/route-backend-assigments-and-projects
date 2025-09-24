@@ -1,0 +1,16 @@
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.csproj.AssemblyReference.cache
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.AssemblyInfoInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.AssemblyInfo.cs
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.csproj.CoreCompileInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.sourcelink.json
+D:\backend\MVC\IKEASolution\IKEA.BLL\bin\Debug\net9.0\IKEA.BLL.deps.json
+D:\backend\MVC\IKEASolution\IKEA.BLL\bin\Debug\net9.0\IKEA.BLL.dll
+D:\backend\MVC\IKEASolution\IKEA.BLL\bin\Debug\net9.0\IKEA.BLL.pdb
+D:\backend\MVC\IKEASolution\IKEA.BLL\bin\Debug\net9.0\IKEA.DAL.dll
+D:\backend\MVC\IKEASolution\IKEA.BLL\bin\Debug\net9.0\IKEA.DAL.pdb
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.csproj.Up2Date
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.dll
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\refint\IKEA.BLL.dll
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\IKEA.BLL.pdb
+D:\backend\MVC\IKEASolution\IKEA.BLL\obj\Debug\net9.0\ref\IKEA.BLL.dll

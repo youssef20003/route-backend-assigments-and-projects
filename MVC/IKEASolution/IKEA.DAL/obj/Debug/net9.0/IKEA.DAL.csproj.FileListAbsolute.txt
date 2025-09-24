@@ -1,0 +1,15 @@
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.AssemblyInfo.cs
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.sourcelink.json
+D:\backend\MVC\IKEASolution\IKEA.DAL\bin\Debug\net9.0\IKEA.DAL.deps.json
+D:\backend\MVC\IKEASolution\IKEA.DAL\bin\Debug\net9.0\IKEA.DAL.runtimeconfig.json
+D:\backend\MVC\IKEASolution\IKEA.DAL\bin\Debug\net9.0\IKEA.DAL.dll
+D:\backend\MVC\IKEASolution\IKEA.DAL\bin\Debug\net9.0\IKEA.DAL.pdb
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.dll
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\refint\IKEA.DAL.dll
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.pdb
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\IKEA.DAL.genruntimeconfig.cache
+D:\backend\MVC\IKEASolution\IKEA.DAL\obj\Debug\net9.0\ref\IKEA.DAL.dll

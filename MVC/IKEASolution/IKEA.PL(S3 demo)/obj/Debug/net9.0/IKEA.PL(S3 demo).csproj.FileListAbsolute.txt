@@ -1,0 +1,236 @@
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).AssemblyInfoInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).AssemblyInfo.cs
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).csproj.CoreCompileInputs.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).MvcApplicationPartsAssemblyInfo.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).RazorAssemblyInfo.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).RazorAssemblyInfo.cs
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).sourcelink.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\appsettings.Development.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\appsettings.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).staticwebassets.runtime.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).staticwebassets.endpoints.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).exe
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).deps.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).runtimeconfig.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.PL(S3 demo).pdb
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\scopedcss\bundle\IKEA.PL(S3 demo).styles.css
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\scopedcss\projectbundle\IKEA.PL(S3 demo).bundle.scp.css
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\r06y76maf4-b9sayid5wm.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\82olxz7wpq-61n19gt1b8.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\zmzkw9lkyf-xtxxf3hu2r.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\plqm94trmo-bqjiyaj88i.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\ag5xwf56gi-c2jlpeoesf.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\dwi3tngzmw-erw9l3u2r3.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\tf0piep41z-aexeepp0ev.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\an873m6fi4-d7shbmvgxk.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\pl356iw3fi-ausgxo2sd3.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\dvvqjubbl1-k8d9w2qqmf.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\filwct6tm3-cosvhxvwiu.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\bvb3jdj3i1-ub07r2b239.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\dou67uza5l-fvhpjtyr6v.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\np7197u66y-b7pk76d08c.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\bgscb1r5cm-fsbi9cje9m.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\4hxsjgjxnt-rzd6atqjts.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\2lgssl22q6-ee0r1s7dh0.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\b5drmgdgxi-dxx9fxp4il.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\y6jazrws84-jd9uben2k1.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\ybdb1tboic-khv3u5hwcm.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\wago6is9pi-r4e9w2rdcm.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\mkfqj6fo00-lcd1t2u6c8.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\zflzgkuvq0-c2oey78nd0.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\71a3zrw99f-tdbxkamptv.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\snl8jyn5n5-j5mq2jizvt.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\f9y58c7sti-06098lyss8.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\eg55ptl3a0-nvvlpmu67g.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\6wze8fc5sy-s35ty4nyc5.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\j941edc1f8-pj5nd1wqec.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\7ofwoxeir3-46ein0sx1k.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\241f4q3bci-v0zj4ognzu.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\9rkajf1j4v-37tfw0ft22.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\83pqqpymjf-hrwsygsryq.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\opviyc1hqg-pk9g2wxc8p.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\o7kg681eb3-ft3s53vfgj.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\8sjyy3fku5-6cfz1n2cew.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\6e577ut40y-6pdc2jztkx.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\9ai8vxe2ov-493y06b0oq.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\qmbs6x089q-iovd86k7lj.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\3x8kzxccwt-vr1egmr9el.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\tdowj54xwn-kbrnm935zg.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\39zahljm2j-jj8uyg4cgr.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\0mwfneb0wm-y7v9cxd14o.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\n4rnyf859j-notf2xhcfb.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\4innncxqx7-h1s4sie4z3.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\ul78l4n4bn-63fj8s7r0e.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\e80ljutdbu-0j3bgjxly4.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\myma2wg6hs-47otxtyo56.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\znojel7x1e-4v8eqarkd7.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\agis1b2b53-356vix0kms.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\vatr3wdytr-83jwlth58m.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\g8o94pfsi0-mrlpezrjn3.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\k05h09xsgn-lzl9nlhx6b.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\d5ccoe1p9p-ag7o75518u.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\ilpg1jegvy-x0q3zqp4vz.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\q09peccgfw-0i3buxo5is.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\6dcgtb5epn-o1o13a6vjx.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\foaujhy14n-ttgo8qnofa.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\qbaw0ugbrn-2z0ns9nrw6.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\rs51vxv9ps-muycvpuwrr.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\tspx44t477-87fc7y1x7t.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\96zagd4jfs-mlv21k5csn.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\xr8hghskux-ye1maxnbj5.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\compressed\h6fljf6lgc-ye1maxnbj5.gz
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\staticwebassets.build.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\staticwebassets.development.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\refint\IKEA.PL(S3 demo).dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).pdb
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).genruntimeconfig.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\ref\IKEA.PL(S3 demo).dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(S3 demo).csproj.AssemblyReference.cache
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Azure.Core.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Azure.Identity.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Humanizer.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.ClientModel.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.CodeDom.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Memory.Data.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Text.Json.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.BLL.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.DAL.dll
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.BLL.pdb
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\bin\Debug\net9.0\IKEA.DAL.pdb
+D:\backend\MVC\IKEASolution\IKEA.PL(S3 demo)\obj\Debug\net9.0\IKEA.PL(.748969E7.Up2Date

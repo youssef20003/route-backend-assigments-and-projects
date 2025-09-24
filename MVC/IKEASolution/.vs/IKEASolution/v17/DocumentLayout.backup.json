@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\MVC\\IKEASolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C4D091-EBC6-4DB2-A379-9317D2037B30}|IKEA.PL(S3 demo)\\IKEA.PL(S3 demo).csproj|d:\\backend\\mvc\\ikeasolution\\ikea.pl(s3 demo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C4D091-EBC6-4DB2-A379-9317D2037B30}|IKEA.PL(S3 demo)\\IKEA.PL(S3 demo).csproj|solutionrelative:ikea.pl(s3 demo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E8386F-75FA-45F9-9B92-F7893093659B}|IKEA.BLL\\IKEA.BLL.csproj|d:\\backend\\mvc\\ikeasolution\\ikea.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E8386F-75FA-45F9-9B92-F7893093659B}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702CD2E8-C6F5-44B2-A742-2D254B885DD0}|IKEA.DAL\\IKEA.DAL.csproj|d:\\backend\\mvc\\ikeasolution\\ikea.dal\\reposatories\\departmentrepo\\departmentrepostories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702CD2E8-C6F5-44B2-A742-2D254B885DD0}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\reposatories\\departmentrepo\\departmentrepostories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702CD2E8-C6F5-44B2-A742-2D254B885DD0}|IKEA.DAL\\IKEA.DAL.csproj|d:\\backend\\mvc\\ikeasolution\\ikea.dal\\reposatories\\departmentrepo\\idepartmentreposatery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702CD2E8-C6F5-44B2-A742-2D254B885DD0}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\reposatories\\departmentrepo\\idepartmentreposatery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\backend\\MVC\\IKEASolution\\IKEA.BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\backend\\MVC\\IKEASolution\\IKEA.BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "IKEA.BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:25:13.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentRepostories.cs",
+              "DocumentMoniker": "D:\\backend\\MVC\\IKEASolution\\IKEA.DAL\\Reposatories\\DepartmentRepo\\DepartmentRepostories.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Reposatories\\DepartmentRepo\\DepartmentRepostories.cs",
+              "ToolTip": "D:\\backend\\MVC\\IKEASolution\\IKEA.DAL\\Reposatories\\DepartmentRepo\\DepartmentRepostories.cs",
+              "RelativeToolTip": "IKEA.DAL\\Reposatories\\DepartmentRepo\\DepartmentRepostories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:16:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepartmentReposatery.cs",
+              "DocumentMoniker": "D:\\backend\\MVC\\IKEASolution\\IKEA.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatery.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatery.cs",
+              "ToolTip": "D:\\backend\\MVC\\IKEASolution\\IKEA.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatery.cs",
+              "RelativeToolTip": "IKEA.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:13:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\MVC\\IKEASolution\\IKEA.PL(S3 demo)\\Program.cs",
+              "RelativeDocumentMoniker": "IKEA.PL(S3 demo)\\Program.cs",
+              "ToolTip": "D:\\backend\\MVC\\IKEASolution\\IKEA.PL(S3 demo)\\Program.cs",
+              "RelativeToolTip": "IKEA.PL(S3 demo)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:56:34.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
