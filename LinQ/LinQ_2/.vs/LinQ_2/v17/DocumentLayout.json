@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\backend\\LinQ\\LinQ_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|d:\\backend\\linq\\linq_2\\linq_2\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|solutionrelative:linq_2\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|d:\\backend\\linq\\linq_2\\linq_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|solutionrelative:linq_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|d:\\backend\\linq\\linq_2\\linq_2\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|solutionrelative:linq_2\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|d:\\backend\\linq\\linq_2\\linq_2\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9EEF90-981B-4055-9A2A-3D1F6DEB50DB}|LinQ_2\\LinQ_2.csproj|solutionrelative:linq_2\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListGenerator.cs",
               "DocumentMoniker": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\ListGenerator.cs",
               "RelativeDocumentMoniker": "LinQ_2\\Data\\ListGenerator.cs",
-              "ToolTip": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\ListGenerator.cs*",
-              "RelativeToolTip": "LinQ_2\\Data\\ListGenerator.cs*",
-              "ViewState": "AgIAANkAAAAAAAAAAAAqwOkAAABtAAAAAAAAAA==",
+              "ToolTip": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\ListGenerator.cs",
+              "RelativeToolTip": "LinQ_2\\Data\\ListGenerator.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAO0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T01:47:53.646Z",
+              "WhenOpened": "2025-09-25T11:13:31.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\Customer.cs",
-              "RelativeDocumentMoniker": "LinQ_2\\Data\\Customer.cs",
-              "ToolTip": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\Customer.cs",
-              "RelativeToolTip": "LinQ_2\\Data\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T01:44:54.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Program.cs",
               "RelativeDocumentMoniker": "LinQ_2\\Program.cs",
               "ToolTip": "D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Program.cs",
               "RelativeToolTip": "LinQ_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T01:42:56.457Z",
               "EditorCaption": ""

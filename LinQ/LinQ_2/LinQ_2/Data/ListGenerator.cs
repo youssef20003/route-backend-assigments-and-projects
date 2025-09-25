@@ -231,7 +231,7 @@ namespace Day_01_G03
                         UnitPrice = 13.0000M, UnitsInStock = 32 }
             };
 
-            CustomersList = (from e in XDocument.Load("D:\\backend\\LinQ\\LinQ_2\\LinQ_2\\Data\\Customers.xml").Root.Elements("customer")
+            CustomersList = (from e in XDocument.Load("Data\\Customers.xml").Root.Elements("customer")
                              select new Customer()
                              {
                                  CustomerID = (string)e.Element("id"),
