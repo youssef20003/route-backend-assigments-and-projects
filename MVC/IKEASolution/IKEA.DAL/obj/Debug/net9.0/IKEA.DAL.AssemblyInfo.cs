@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IKEA.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02f4573d23f00e126beec3bec4a91af0ceaa3dbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f19cc4a92428f07e280ab5fc5e6e908f97dd087")]
 [assembly: System.Reflection.AssemblyProductAttribute("IKEA.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IKEA.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

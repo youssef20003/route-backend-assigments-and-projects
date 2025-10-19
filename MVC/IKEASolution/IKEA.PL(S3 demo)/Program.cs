@@ -1,3 +1,4 @@
+using IKEA.BLL.Services;
 using IKEA.DAL.Contexts;
 using IKEA.DAL.Reposatories.DepartmentRepo;
 using Microsoft.EntityFrameworkCore;
@@ -17,7 +18,7 @@ namespace IKEA.PL_S3_demo_
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             builder.Services.AddScoped<IDepartmentReposatery, DepartmentRepostories>();
-           
+            builder.Services.AddScoped<IDepartmentInterface , DepartmentService>();
 
             var app = builder.Build();
 

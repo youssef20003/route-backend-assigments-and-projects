@@ -5,6 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using IKEA.DAL.Models.Departmnet;
+using IKEA.DAL.Models.Employee;
 
 namespace IKEA.DAL.Contexts
 {
@@ -21,5 +22,6 @@ namespace IKEA.DAL.Contexts
         }
 
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }

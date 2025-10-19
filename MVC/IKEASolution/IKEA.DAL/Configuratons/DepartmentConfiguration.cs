@@ -24,7 +24,7 @@ namespace IKEA.DAL.Configuratons
 
         
 
-            D.Property(d => d.LastModifedBy)
+            D.Property(d => d.LastModifedOn)
                 .HasComputedColumnSql("GetDate()");
         }
     }
