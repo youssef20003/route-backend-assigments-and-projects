@@ -1,4 +1,9 @@
 
+using ECommerce.Domain.Contracts.Seed;
+using ECommerce.Persistence.Contexts;
+using ECommerce.Persistence.Seed;
+using Microsoft.EntityFrameworkCore;
+
 namespace ECommerce.Web
 {
     public class Program
@@ -13,7 +18,16 @@ namespace ECommerce.Web
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
+            builder.Services.AddDbContext<StoreDBContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+            );
+
+            builder.Services.AddScoped<IDataSeeding, DataSeeding>();
             var app = builder.Build();
+
+            var Scope = app.Services.CreateScope();
+            var ObjectSeeding = Scope.ServiceProvider.GetRequiredService<IDataSeeding>();
+            ObjectSeeding.DataSeed();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

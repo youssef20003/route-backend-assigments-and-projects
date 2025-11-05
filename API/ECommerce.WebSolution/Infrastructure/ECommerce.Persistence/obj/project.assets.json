@@ -1002,6 +1002,16 @@
           "bin/placeholder/ECommerce.Abstraction.dll": {}
         }
       },
+      "ECommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ECommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.Domain.dll": {}
+        }
+      },
       "ECommerce.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2767,6 +2777,11 @@
       "path": "../../Core/ECommerce.Abstraction/ECommerce.Abstraction.csproj",
       "msbuildProject": "../../Core/ECommerce.Abstraction/ECommerce.Abstraction.csproj"
     },
+    "ECommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/ECommerce.Domain/ECommerce.Domain.csproj",
+      "msbuildProject": "../../Core/ECommerce.Domain/ECommerce.Domain.csproj"
+    },
     "ECommerce.Shared/1.0.0": {
       "type": "project",
       "path": "../../ECommerce.Shared/ECommerce.Shared.csproj",
@@ -2776,6 +2791,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "ECommerce.Abstraction >= 1.0.0",
+      "ECommerce.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.10"
     ]
   },
@@ -2813,6 +2829,9 @@
           "projectReferences": {
             "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
               "projectPath": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+            },
+            "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+              "projectPath": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj"
             }
           }
         }

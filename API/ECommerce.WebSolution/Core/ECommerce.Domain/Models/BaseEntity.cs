@@ -8,6 +8,6 @@ namespace ECommerce.Domain.Models
 {
     public class BaseEntity<TKey>
     {
-        public TKey Id;
+        public TKey Id { get; set; }
     }
 }
