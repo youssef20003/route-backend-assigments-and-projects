@@ -1,13 +1,15 @@
 ﻿using Humanizer;
 using IKEA.BLL.Dtos.DepartmentDtos;
-using IKEA.BLL.Services;
+using IKEA.BLL.Services.Department;
 using IKEA.PL_S3_demo_.ViewModels.DepartmentVM;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Linq.Expressions;
 
 namespace IKEA.PL_S3_demo_.Controllers
 {
+    [Authorize(Roles = "NUser")]
     public class departmentController : Controller
     {
         private readonly IDepartmentInterface _department;
@@ -23,23 +25,32 @@ namespace IKEA.PL_S3_demo_.Controllers
 
         public IActionResult Index()
         {
+            ViewData["Message"] = " hello from view data";
             var depts = _department.GetAllDepartmants();
             return View(depts);
         }
 
         [HttpGet]
+        [Authorize(Roles = "NUser")]
         public IActionResult Create() { 
             return View();
         }
 
         [HttpPost]
-        public IActionResult Create(CreatedDepartmnetDto dto)
+        public IActionResult Create(DepartmentViewModel dvm)
         {
             if (ModelState.IsValid) 
             {
+                CreatedDepartmnetDto dept = new CreatedDepartmnetDto()
+                {
+                    
+                    Name = dvm.Name,
+                    Description = dvm.Description,
+                    Code = dvm.Code,
+                };
                 try
                 {
-                    int res = _department.AddDepartmant(dto);
+                    int res = _department.AddDepartmant(dept);
                     if (res != 0)
                     {
                         return RedirectToAction("Index");
@@ -47,19 +58,19 @@ namespace IKEA.PL_S3_demo_.Controllers
                     else
                     {
                         ModelState.AddModelError(string.Empty, "department cant be created");
-                        return View(dto);
+                        return View(dept);
                     }
                 }
                 catch (Exception ex)
                 {
                     logger.LogError(ex.Message);
-                    return View(dto);
+                    return View(dept);
                 }      
                
             }
             else
             {
-                return View(dto);
+                return View(dvm);
             }
         }
 

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IKEA.DAL.Models.Departmnet;
 
 namespace IKEA.DAL.Models.Employee
 {
@@ -17,7 +18,10 @@ namespace IKEA.DAL.Models.Employee
         public string? Email { get; set; }
         public string? PhoneNumber { get; set; }
         public DateOnly HiringDate { get; set; }
-        public Gendar Gender { get; set; }
+        public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }
+        public int? DepartmentId { get; set; }
+        public virtual Department Department { get; set; }
+        public string? ImageName { get; set; }
     }
 }

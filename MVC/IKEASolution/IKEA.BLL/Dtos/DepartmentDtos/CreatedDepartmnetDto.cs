@@ -15,7 +15,6 @@ namespace IKEA.BLL.Dtos.DepartmentDtos
 
         [Required(ErrorMessage = "Code is Required")]
         public string Code { get; set; }
-       
         public string Description { get; set; }
     }
 }

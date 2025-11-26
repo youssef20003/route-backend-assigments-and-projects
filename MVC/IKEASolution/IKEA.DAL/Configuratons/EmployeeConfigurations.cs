@@ -20,7 +20,7 @@ namespace IKEA.DAL.Configuratons
                 .HasColumnType("decimal(10,3)");
             builder.Property(d => d.Gender)
                 .HasConversion((empgender) => empgender.ToString(),
-                    (gender) => (Gendar)Enum.Parse(typeof(Gendar), gender));
+                    (gender) => (Gender)Enum.Parse(typeof(Gender), gender));
             builder.Property(d => d.EmployeeType)
                 .HasConversion((emptype) => emptype.ToString(),
                     (type) => (EmployeeType)Enum.Parse(typeof(EmployeeType), type));

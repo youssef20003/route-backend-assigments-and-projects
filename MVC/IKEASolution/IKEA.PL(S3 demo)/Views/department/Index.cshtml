@@ -3,13 +3,14 @@
 @{
     ViewData["Title"] = "Index";
 }
-
 <h1 class="my-3">All Departments</h1>
-
 <div class="card">
     <div class="card-header border border-primary">
 
         <h1 class="my-3 ">All departments</h1>
+        <div class="alert alert-success">
+            <h2>@ViewData["Message"]</h2>
+        </div>
         <a asp-action="Create" class="btn btn-success">Create</a>
         @if (Model.Any())
         {
@@ -31,23 +32,18 @@
                             <td>@dept.code</td>
                             <td>@dept.Name</td>
                             <td>@dept.Description</td>
-                            <td><a asp-action="Details" class="btn btn-primary" asp-route-id="@dept.Id">Details</a></td>
-                            <td><a asp-action="Edit" class="btn btn-warning" asp-route-id="@dept.Id">Edit</a></td>
-                            <td><a asp-action="Delete" class="btn btn-danger" asp-route-id="@dept.Id">Delete</a></td>
+                            <partial name="_ButtonsPartialView" model="@dept.Id" />
                         </tr>
                     }
                 </tbody>
             </table>
-
         }
         else
         {
             <div class="alert alert-info mt-2">
                 <h2>No DEpartment Found</h2>
             </div>
-
         }
-
     </div>
 </div>
 

@@ -26,6 +26,11 @@ namespace IKEA.DAL.Configuratons
 
             D.Property(d => d.LastModifedOn)
                 .HasComputedColumnSql("GetDate()");
+
+            D.HasMany(d=>d.Employees)
+                .WithOne(e=>e.Department)
+                .HasForeignKey(e=>e.DepartmentId)
+                .OnDelete(DeleteBehavior.SetNull);
         }
     }
 }

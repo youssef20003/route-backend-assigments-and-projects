@@ -1,4 +1,5 @@
 ﻿using IKEA.DAL.Models.Shared;
+using IKEA.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,9 @@ namespace IKEA.DAL.Models.Departmnet
         public string Name { get; set; }
         public string Code { get; set; }
         public string? Description { get; set; }
+
+        public virtual ICollection<Employee.Employee> Employees { get; set; } = new HashSet<Employee.Employee>();
+
 
     }
 }

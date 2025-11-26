@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IKEA.PL(S3 demo)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f19cc4a92428f07e280ab5fc5e6e908f97dd087")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cede888e19563d2d53acf241d81239a18de395c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("IKEA.PL(S3 demo)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IKEA.PL(S3 demo)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
