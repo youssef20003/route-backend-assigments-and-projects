@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\backend\\API\\ECommerce.WebSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.service\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.service\\specifications\\orderspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB30F82-468F-401D-BE03-E05AB2C2556E}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\orderspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24AFFD0D-0DB0-46A8-8F7F-C0FFE36717B9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.abstraction\\iservices\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AFFD0D-0DB0-46A8-8F7F-C0FFE36717B9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{516FA061-3890-4B81-AC41-B214ED66E687}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|d:\\backend\\api\\ecommerce.websolution\\infrastructure\\ecommerce.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{516FA061-3890-4B81-AC41-B214ED66E687}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|solutionrelative:infrastructure\\ecommerce.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24AFFD0D-0DB0-46A8-8F7F-C0FFE36717B9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.abstraction\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24AFFD0D-0DB0-46A8-8F7F-C0FFE36717B9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3B5606-89A6-4080-8607-EAE9821DCDB8}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|d:\\backend\\api\\ecommerce.websolution\\core\\ecommerce.domain\\models\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3B5606-89A6-4080-8607-EAE9821DCDB8}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\models\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{942A476B-AF22-49A0-8B32-AD5D0B09B7CA}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|d:\\backend\\api\\ecommerce.websolution\\infrastructure\\ecommerce.persistence\\repos\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942A476B-AF22-49A0-8B32-AD5D0B09B7CA}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\repos\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderSpecifications.cs",
-              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Specifications\\OrderSpecifications.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\OrderSpecifications.cs",
-              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Specifications\\OrderSpecifications.cs",
-              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\OrderSpecifications.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CacheServices.cs",
+              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Services\\CacheServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\CacheServices.cs",
+              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Services\\CacheServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\CacheServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:50:43.103Z",
+              "WhenOpened": "2025-11-28T13:14:25.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\IServices\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IOrderService.cs",
-              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\IServices\\IOrderService.cs",
-              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\IServices\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\ICacheService.cs",
+              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Abstraction\\IServices\\ICacheService.cs",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:17:57.074Z",
+              "WhenOpened": "2025-11-28T13:12:26.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Infrastructure\\ECommerce.Presentation\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Presentation\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Infrastructure\\ECommerce.Presentation\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Presentation\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwDEAAABVAAAAAAAAAA==",
+              "Title": "CacheRepo.cs",
+              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Infrastructure\\ECommerce.Persistence\\Repos\\CacheRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Repos\\CacheRepo.cs",
+              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Infrastructure\\ECommerce.Persistence\\Repos\\CacheRepo.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Repos\\CacheRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:13:50.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Domain\\Models\\Order\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\Order\\Order.cs",
-              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Domain\\Models\\Order\\Order.cs",
-              "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\Order\\Order.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:31:39.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\OrderService.cs",
-              "ToolTip": "D:\\backend\\API\\ECommerce.WebSolution\\Core\\ECommerce.Service\\Services\\OrderService.cs",
-              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:28:57.094Z",
+              "WhenOpened": "2025-11-28T13:06:13.749Z",
               "EditorCaption": ""
             }
           ]
