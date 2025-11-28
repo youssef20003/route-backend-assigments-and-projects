@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ECommerce.Domain.Models.Order;
 using ECommerce.Domain.Models.Product;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,5 +23,6 @@ namespace ECommerce.Persistence.Contexts
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductBrand> Brands { get; set; }
         public DbSet<ProductType> Types { get; set; }
+        public DbSet<DeliveryMethod> DeliveryMethods { get; set; }
     }
 }

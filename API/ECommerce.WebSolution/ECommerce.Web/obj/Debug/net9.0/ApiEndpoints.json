@@ -222,6 +222,32 @@
     ]
   },
   {
+    "ContainingType": "ECommerce.Presentation.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDto",
+        "Type": "ECommerce.Shared.DTOS.OrderDto.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ECommerce.Shared.DTOS.OrderDto.OrderToReturnDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ECommerce.Presentation.Controllers.ProductController",
     "Method": "GetAllProducts",
     "RelativePath": "api/Product",

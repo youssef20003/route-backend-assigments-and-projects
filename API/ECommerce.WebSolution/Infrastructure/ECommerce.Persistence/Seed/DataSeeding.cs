@@ -1,13 +1,14 @@
-﻿using System;
+﻿using ECommerce.Domain.Contracts.Seed;
+using ECommerce.Domain.Models.Order;
+using ECommerce.Domain.Models.Product;
+using ECommerce.Persistence.Contexts;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using ECommerce.Domain.Contracts.Seed;
-using ECommerce.Domain.Models.Product;
-using ECommerce.Persistence.Contexts;
-using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce.Persistence.Seed  
 {
@@ -50,8 +51,6 @@ namespace ECommerce.Persistence.Seed
                     _context.Types.AddRange(types);
             }
 
-            // ⭐ IMPORTANT ⭐
-            // Save Brands + Types FIRST so IDs exist
             await _context.SaveChangesAsync();
 
 
@@ -68,6 +67,24 @@ namespace ECommerce.Persistence.Seed
             }
 
             await _context.SaveChangesAsync();
+
+            // ----------------------
+            // 4. Seed Delivery Methods
+            // ----------------------
+            if (!await _context.DeliveryMethods.AnyAsync())
+            {
+                var dmData = await File.ReadAllTextAsync(
+                    @"..\Infrastructure\ECommerce.Persistence\Data\delivery.json"
+                );
+
+                var methods = JsonSerializer.Deserialize<List<DeliveryMethod>>(dmData);
+
+                if (methods is not null && methods.Any())
+                    await _context.DeliveryMethods.AddRangeAsync(methods);
+            }
+
+            await _context.SaveChangesAsync();
+
 
         }
     }
