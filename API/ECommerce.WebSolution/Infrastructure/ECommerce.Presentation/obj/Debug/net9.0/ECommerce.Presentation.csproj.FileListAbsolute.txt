@@ -5,8 +5,8 @@ D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\D
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Domain.dll
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Service.dll
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Shared.dll
-D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Service.pdb
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Abstraction.pdb
+D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Service.pdb
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Domain.pdb
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Shared.pdb
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\obj\Debug\net9.0\ECommerce.Presentation.csproj.AssemblyReference.cache
@@ -20,3 +20,5 @@ D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\obj\D
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\obj\Debug\net9.0\refint\ECommerce.Presentation.dll
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\obj\Debug\net9.0\ECommerce.Presentation.pdb
 D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\obj\Debug\net9.0\ref\ECommerce.Presentation.dll
+D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Persistence.dll
+D:\backend\API\ECommerce.WebSolution\Infrastructure\ECommerce.Presentation\bin\Debug\net9.0\ECommerce.Persistence.pdb

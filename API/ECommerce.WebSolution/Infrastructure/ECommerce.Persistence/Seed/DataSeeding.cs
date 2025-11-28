@@ -9,7 +9,7 @@ using ECommerce.Domain.Models.Product;
 using ECommerce.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerce.Persistence.Seed
+namespace ECommerce.Persistence.Seed  
 {
     public class DataSeeding : IDataSeeding
     {
@@ -18,48 +18,57 @@ namespace ECommerce.Persistence.Seed
         {
             _context = context;
         }
-        public void DataSeed()
+        public async Task DataSeedAsync()
         {
-            if (_context.Database.GetPendingMigrations().Any())
+            var PendingMigrations = await _context.Database.GetPendingMigrationsAsync();
+            if (PendingMigrations.Any())
             {
                 _context.Database.Migrate();
             }
 
-            if (_context.Brands.Any())
+            // ----------------------
+            // 1. Seed Brands
+            // ----------------------
+            if (!_context.Brands.Any())
             {
-                var BrandData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\brands.json");
-                var Brands  =JsonSerializer.Deserialize<List<ProductBrand>>(BrandData);
+                var brandData = await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\brands.json");
+                var brands = JsonSerializer.Deserialize<List<ProductBrand>>(brandData);
 
-                if (Brands is not null && Brands.Any())
-                {
-                    _context.Brands.AddRange(Brands);
-                }
+                if (brands is not null && brands.Any())
+                    _context.Brands.AddRange(brands);
             }
 
-            if (_context.Types.Any())
+            // ----------------------
+            // 2. Seed Types
+            // ----------------------
+            if (!_context.Types.Any())
             {
-                var TypesData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\types.json");
-                var Types = JsonSerializer.Deserialize<List<ProductType>>(TypesData);
+                var typesData = await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\types.json");
+                var types = JsonSerializer.Deserialize<List<ProductType>>(typesData);
 
-                if (Types is not null && Types.Any())
-                {
-                    _context.Types.AddRange(Types);
-                }
+                if (types is not null && types.Any())
+                    _context.Types.AddRange(types);
             }
 
+            // ⭐ IMPORTANT ⭐
+            // Save Brands + Types FIRST so IDs exist
+            await _context.SaveChangesAsync();
 
-            if (_context.Products.Any())
+
+            // ----------------------
+            // 3. Seed Products (depends on types + brands)
+            // ----------------------
+            if (!_context.Products.Any())
             {
-                var ProductsData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\products.json");
-                var Products = JsonSerializer.Deserialize<List<Product>>(ProductsData);
+                var productsData = await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\products.json");
+                var products = JsonSerializer.Deserialize<List<Product>>(productsData);
 
-                if (Products is not null && Products.Any())
-                {
-                    _context.Products.AddRange(Products);
-                }
+                if (products is not null && products.Any())
+                    _context.Products.AddRange(products);
             }
 
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
+
         }
     }
 }
